@@ -16,3 +16,8 @@ l'API utilisé : https://exchangerate.host/#/
 - Testing
 <img src="https://user-images.githubusercontent.com/83044746/210120875-d812e7fb-5098-41d9-a192-c55358a3cc92.png" width="250">
 
+- API data format (base currecy is EUR)
+<img src="https://user-images.githubusercontent.com/83044746/210121041-bb6abc5a-221e-417b-ae56-136d343ec7c1.png">
+
+
+
