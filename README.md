@@ -4,8 +4,15 @@ en se basant sur des taux de change par rapport à une monnaie référentielle (
 
 l'API utilisé : https://exchangerate.host/#/ 
 
-![Screenshot_20221231_013326](https://user-images.githubusercontent.com/83044746/210120406-f16f415a-02f9-4084-80ef-021081006429.png | width=100)
+- Splash screen
+<img src="https://user-images.githubusercontent.com/83044746/210120406-f16f415a-02f9-4084-80ef-021081006429.png" width="250">
 
-![Screenshot_20221231_013244](https://user-images.githubusercontent.com/83044746/210120426-615b2cab-08f1-45cf-8ca8-bd22ca39c4df.png | width=100)
+- Main Activity
+<img src="https://user-images.githubusercontent.com/83044746/210120426-615b2cab-08f1-45cf-8ca8-bd22ca39c4df.png" width="250">
 
-![Capture d’écran 2022-12-31 013517](https://user-images.githubusercontent.com/83044746/210120434-512d969e-bc67-4743-a058-c23b91707f1a.png | width=100)
+- API website
+<img src="https://user-images.githubusercontent.com/83044746/210120434-512d969e-bc67-4743-a058-c23b91707f1a.png" width="250">
+
+- Testing
+<img src="https://user-images.githubusercontent.com/83044746/210120875-d812e7fb-5098-41d9-a192-c55358a3cc92.png" width="250">
+
